@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: ghcr.io/stivaktakisantonios/antonios-scanner
+  IMAGE_NAME: ghcr.io/StivaktakisAntonios/antonios-scanner
 
 jobs:
   scout:
